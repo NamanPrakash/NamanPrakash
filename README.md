@@ -16,5 +16,6 @@ If you need me, get me [here](mailto:namanprakashrai0@gmail.com)
 |C++|
 |Python|
 |JS|
+|Swift|
 
 ***
